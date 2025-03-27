@@ -253,3 +253,39 @@ Y se observa que el producto fue eliminado exitosamente como lo notifica el mens
 ![image](https://github.com/user-attachments/assets/7624f6fd-bb0b-4617-b241-a56d5c6f963c)
 ![image](https://github.com/user-attachments/assets/68030d86-8523-4836-b5b9-cac666c173a4)
 
+
+
+
+
+
+Tarea: Asignación No. 6 Integración y Seguridad
+
+Tal como se solicita en la tarea, se integra seguridad a la aplicación, en este caso la seguridad es por medio de JWT(Jason Web Token) de Asp.Net-Core que se ve a continuación
+
+Se debe instalar las librerías de JWT como se ve en la imagen
+![image](https://github.com/user-attachments/assets/6f7c3a16-2e48-43a7-89e9-76d24ee23b28)
+
+
+Luego se crea una clase llamada"Utilidades" donde se crea un método de encriptación llamado "encriptarSHA256", esto con el fin de al registrar un usuario encripte la contraseña por motivos de seguridad
+![image](https://github.com/user-attachments/assets/bff4651f-516a-4915-8ecd-5bfdaff844ac)
+
+Se crea otro método llamado "generarJWT" que genera el token con el propósito de que cuando se loguee al iniciar sesión el usuario con las credenciales le genere un token y así tenga permitido la autorización de ingresar a las demás apis de Listar, editar, eliminar, consultar productos o pedidos
+![image](https://github.com/user-attachments/assets/254eab5f-f34b-4d1c-9127-1cc3474ab8da)
+
+En el controlador llamado "Acceso" se crea la acción de "Registrarse" como se ve en la imagen
+
+![image](https://github.com/user-attachments/assets/6171c535-563a-4c45-af34-dddabf050e62)
+
+Se crea la acción de "Login" con el propósito de que al iniciar sesión con las credenciales correctas le genere el token y le permita al usuario tener la autorización de acceder a las demas apis de Listar, editar, eliminar, consultar productos o pedidos
+![image](https://github.com/user-attachments/assets/f75a16aa-f88f-4461-b0ff-c5adb49f8235)
+
+Este es el controlador de Productos el cual como se ve en la imagen se coloca la palabra "Authorize" con el fin de que solo pueden acceder a esta api quien este autorizado por un token
+
+![image](https://github.com/user-attachments/assets/afa486c0-6f34-4e24-8aa9-4d5a49de4d75)
+
+
+
+
+
+
+
