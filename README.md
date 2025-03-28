@@ -313,6 +313,43 @@ Esto sería todo por el lado de la seguridad con JWT(Jason Web Token)
 
 
 
+SEM9 - Tarea: Asignación No. 8 Despliegue de la Plataforma e-Commerce en AWS EC2 - ENTREGA FINAL
+En este caso la aplicación por ser de .Net-Core el despliegue lo realizo en Azure
+
+Se ingresa al portal de Azure
+![image](https://github.com/user-attachments/assets/a30e4a66-3224-4aad-b167-7dfaaac41586)
+
+
+Se crea la suscripción en azure para realizar el despliegue
+![image](https://github.com/user-attachments/assets/f72ac6f3-55df-41ef-a145-65b74588e7f2)
+
+Luego de crear la suscripción se debe crear el "Grupo de Recursos"
+![image](https://github.com/user-attachments/assets/e5c4647a-b8bc-4c22-b1eb-5d8943206dc7)
+
+Luego de crear el grupo de recursos se crea la appWeb donde estará alojado el código
+![image](https://github.com/user-attachments/assets/addf4b7a-2847-4280-95c9-dd9e0c7d603b)
+
+Y se configura los datos para crear la aplcicación como se aprecia en la imagen
+![image](https://github.com/user-attachments/assets/c6753dc0-a9ac-4acb-8cd8-c10672a0f4b1)
+![image](https://github.com/user-attachments/assets/a366ae99-66fa-465d-9b19-45d9a2ba9601)
+![image](https://github.com/user-attachments/assets/75692b5e-b260-403a-ae13-065d0d28e23c)
+
+Y vemos que se creo el recurso exitosamente, es decir la app para alojar el código
+![image](https://github.com/user-attachments/assets/3990a82b-49da-4b94-85c3-ff55729d70ab)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
