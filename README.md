@@ -346,6 +346,29 @@ Luego en la plataforma visual Studio de .Net se publica la aplicación como se v
 Al escoger la opción de publicar automaticamente visual studio reconoce la appWeb creada en Azure con el nombre del grupo de recursos como se observa em la imagen
 ![image](https://github.com/user-attachments/assets/66fe147f-3f6b-4338-889d-4abe648b3e78)
 
+Se crea el perfil de publicación como se esperaba
+![image](https://github.com/user-attachments/assets/9894003b-e658-48c7-89f1-e80eaabf6ab6)
+
+
+![image](https://github.com/user-attachments/assets/4446f42c-5d6f-45da-b37a-775a0dbb1a0f)
+
+Y se presiona el botón de publicar como se ve en la imagen
+![image](https://github.com/user-attachments/assets/5c207626-d4dd-4a5c-acd2-306709c1bd77)
+
+Y vemos que la publicación fue exitosa como se aprecia en la imagen
+
+Y se observa la URL es el dominio predeterminada de Azure donde se aloja la aplicación Web Api 
+![image](https://github.com/user-attachments/assets/7465a311-fb3b-4a5d-b7e1-957c0ef71401)
+
+Se observa que es la misma url del dominio 
+![image](https://github.com/user-attachments/assets/6d6fb60c-f6d7-47ac-ab00-4aa77eafec6c)
+
+
+
+
+
+
+
 
 
 
