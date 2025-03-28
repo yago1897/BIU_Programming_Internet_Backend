@@ -340,6 +340,16 @@ Y vemos que se creo el recurso exitosamente, es decir la app para alojar el cód
 El siguiente paso es crear la base de datos SQL AZURE para alojar la base de datos creada en sql server como se ve en la imagen
 ![image](https://github.com/user-attachments/assets/d704686f-6d2a-41f4-af46-e74d9b58e7e0)
 
+Luego en la plataforma visual Studio de .Net se publica la aplicación como se ve en la imagen
+![image](https://github.com/user-attachments/assets/6c332275-aeb0-4f5f-8cb7-f48340216240)
+
+Al escoger la opción de publicar automaticamente visual studio reconoce la appWeb creada en Azure con el nombre del grupo de recursos como se observa em la imagen
+![image](https://github.com/user-attachments/assets/66fe147f-3f6b-4338-889d-4abe648b3e78)
+
+
+
+
+
 
 
 
