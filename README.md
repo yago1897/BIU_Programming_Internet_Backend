@@ -337,6 +337,9 @@ Y se configura los datos para crear la aplcicación como se aprecia en la imagen
 Y vemos que se creo el recurso exitosamente, es decir la app para alojar el código
 ![image](https://github.com/user-attachments/assets/3990a82b-49da-4b94-85c3-ff55729d70ab)
 
+El siguiente paso es crear la base de datos SQL AZURE para alojar la base de datos creada en sql server como se ve en la imagen
+![image](https://github.com/user-attachments/assets/d704686f-6d2a-41f4-af46-e74d9b58e7e0)
+
 
 
 
