@@ -415,6 +415,8 @@ Módulo reportes
 
 ![image](https://github.com/user-attachments/assets/41b3a71e-17da-42f3-bdc7-ec3a8e15e2d3)
 
+Esto sería todo por el lado del despliegue a Azure
+
 Para concluír se cumple con el objetivo de publicar las 2 aplicaciones, la de Backend y la del lado Front en Azure, se muestra el paso a paso desde la creación de la suscipción, la creación del grupo de recursos y la creación de las appWeb donde se alojan las aplicaciones. Para finalizar se eliminarán todos los recuros ya que Azure cobra por uso ya que no estoy usando una cuenta gratuita. Cuando se crea por primera vez la cuenta Azure obsequia 200 dolares por 30 días para uso de cualquier recurso, sin embargo ya esos 200 dólares se agotaron en el uso de otras aplicaciones que habia sibido meses antes, lo cual me llevo a utilizar la versión paga para efectos de esta prueba. Es por eso que ya habiendo documentado esta prueba eliminaré todos los recuros.
 
 
