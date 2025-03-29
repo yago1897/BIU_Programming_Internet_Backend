@@ -357,11 +357,59 @@ Y se presiona el botón de publicar como se ve en la imagen
 
 Y vemos que la publicación fue exitosa como se aprecia en la imagen
 
-Y se observa la URL es el dominio predeterminada de Azure donde se aloja la aplicación Web Api 
+Y se observa la URL es el dominio predeterminada de Azure donde se aloja la aplicación Web Api, que en este caso es el BACKEND 
 ![image](https://github.com/user-attachments/assets/7465a311-fb3b-4a5d-b7e1-957c0ef71401)
 
-Se observa que es la misma url del dominio 
+Se observa que es la misma url del dominio donde se encuentra el BACKEND
 ![image](https://github.com/user-attachments/assets/6d6fb60c-f6d7-47ac-ab00-4aa77eafec6c)
+
+Ahora crearemos otro Hosting en Azure para alojar el FRONTEND, es decir la aplicación en Angular
+
+Tal como hicimos con el anterior, se crea una appWeb como se ve en la imagen para alojar la aplicación de Angular
+
+![image](https://github.com/user-attachments/assets/12c693eb-299a-48f9-a44a-79250bc74a05)
+
+Esta aplicación recibe el nombre de AngularBiu como se ve en la imagen
+![image](https://github.com/user-attachments/assets/d48e883b-32d6-486f-83b8-6e7b925010fc)
+
+Y se observa que se crea el alojamiento como se ve en la imagen, para alojar la eplicación de Angular 15
+![image](https://github.com/user-attachments/assets/5f57d4ae-1688-4116-bc1b-d7c6f49d6e49)
+
+Si presionamos el enlace de la url señalada em color rojo como se ve en la imagen
+![image](https://github.com/user-attachments/assets/64b40f3e-b126-432c-b30d-89ac44ded81a)
+
+Vemos que nos lleva a una página donde aún no hay nada, eso es porque ya esta creado el alojamiento pero la aplicación no hay contenido ya que la aplicación no ha sido publicada
+
+![image](https://github.com/user-attachments/assets/2c606e66-49f3-45f1-b30e-39cd88a94c51)
+
+La aplicación angular es realizada en VisualCode como se ve en la imagen y para el despliegue de la app se escoje la appWeb donde se alojará como se ve en la imagen
+
+![image](https://github.com/user-attachments/assets/85cdcbe5-ad0f-4863-940d-40ba7147ec26)
+
+Como se observa en la imagen se elije la opción "Deploy to WebApp"
+![image](https://github.com/user-attachments/assets/419f5f78-5ffc-4b00-8e45-b2cbbed084d2)
+
+Y vemos que se publica exitosamente como se esperaba, se puede ver la URL del dominio predeterminado creado por Azure
+![image](https://github.com/user-attachments/assets/281afdd3-23bc-4ef5-b30c-b554cdef667b)
+![image](https://github.com/user-attachments/assets/171773d8-72d7-4066-a4a5-ceac9aa76990)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
