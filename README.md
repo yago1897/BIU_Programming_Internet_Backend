@@ -399,11 +399,11 @@ Este es el módulo de usuarios, como se puede observar , el despliegue del Front
 
 ![image](https://github.com/user-attachments/assets/1379f720-c8c7-4835-867a-c41d2a0651be)
 
-Módilo productos
+Módulo productos
 
 ![image](https://github.com/user-attachments/assets/a8c4466d-0c19-4fe5-a018-e5dfa888d0df)
 
-Módilo ventas
+Módulo ventas
 
 ![image](https://github.com/user-attachments/assets/4f29e8bb-ca76-4b98-96ae-ab621a3bee0e)
 
