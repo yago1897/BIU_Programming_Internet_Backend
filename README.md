@@ -394,6 +394,12 @@ Y vemos que se publica exitosamente como se esperaba, se puede ver la URL del do
 ![image](https://github.com/user-attachments/assets/171773d8-72d7-4066-a4a5-ceac9aa76990)
 
 
+Este es el módulo de usuarios, como se puede observar , el despliegue del Front de Angular fue exitosamente publicado al igual que el Backend publicado anteriormente
+
+![image](https://github.com/user-attachments/assets/1379f720-c8c7-4835-867a-c41d2a0651be)
+
+
+
 
 
 
