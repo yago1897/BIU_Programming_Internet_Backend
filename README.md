@@ -389,7 +389,8 @@ La aplicación angular es realizada en VisualCode como se ve en la imagen y para
 Como se observa en la imagen se elije la opción "Deploy to WebApp"
 ![image](https://github.com/user-attachments/assets/419f5f78-5ffc-4b00-8e45-b2cbbed084d2)
 
-Y vemos que se publica exitosamente como se esperaba, se puede ver la URL del dominio predeterminado creado por Azure
+Y vemos que se publica exitosamente como se esperaba, se puede ver la URL del dominio predeterminado creado por Azure donde está alojada la aplicación de Angular
+
 ![image](https://github.com/user-attachments/assets/281afdd3-23bc-4ef5-b30c-b554cdef667b)
 ![image](https://github.com/user-attachments/assets/171773d8-72d7-4066-a4a5-ceac9aa76990)
 
@@ -397,6 +398,25 @@ Y vemos que se publica exitosamente como se esperaba, se puede ver la URL del do
 Este es el módulo de usuarios, como se puede observar , el despliegue del Front de Angular fue exitosamente publicado al igual que el Backend publicado anteriormente
 
 ![image](https://github.com/user-attachments/assets/1379f720-c8c7-4835-867a-c41d2a0651be)
+
+Módilo productos
+
+![image](https://github.com/user-attachments/assets/a8c4466d-0c19-4fe5-a018-e5dfa888d0df)
+
+Módilo ventas
+
+![image](https://github.com/user-attachments/assets/4f29e8bb-ca76-4b98-96ae-ab621a3bee0e)
+
+Historial de Ventas
+
+![image](https://github.com/user-attachments/assets/b88c6d53-5256-4d2a-b901-250ff2e75a71)
+
+Módulo reportes
+
+![image](https://github.com/user-attachments/assets/41b3a71e-17da-42f3-bdc7-ec3a8e15e2d3)
+
+Para concluír se cumple con el objetivo de publicar las 2 aplicaciones, la de Backend y la del lado Front en Azure, se muestra el paso a paso desde la creación de la suscipción, la creación del grupo de recursos y la creación de las appWeb donde se alojan las aplicaciones. Para finalizar se eliminarán todos los recuros ya que Azure cobra por uso ya que no estoy usando una cuenta gratuita. Cuando se crea por primera vez la cuenta Azure obsequia 200 dolares por 30 días para uso de cualquier recurso, sin embargo ya esos 200 dólares se agotaron en el uso de otras aplicaciones que habia sibido meses antes, lo cual me llevo a utilizar la versión paga para efectos de esta prueba. Es por eso que ya habiendo documentado esta prueba eliminaré todos los recuros.
+
 
 
 
