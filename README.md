@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="890" height="578" alt="image" src="https://github.com/user-attachments/assets/d8dced0a-fc7b-4937-b164-ca61ec85d8ea" />
+
 
 
 Plataforma de Ventas Ecommerce es una solución integral para la compra y venta de productos en línea. Ofrecemos una experiencia de usuario optimizada con una amplia selección de artículos tecnológicos, también incluimos electrodomésticos y artículos para el hogar. Nuestro objetivo es brindar a los clientes acceso a productos de alta calidad al mejor precio, con un proceso de compra eficiente y seguro
